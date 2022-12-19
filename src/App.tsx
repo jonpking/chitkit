@@ -1,7 +1,7 @@
 import './reset.css';
 import './App.css';
-import Navbar from './components/Navbar';
-import PageControls from './components/PageControls';
+import Navbar from './components/Navbar/Navbar';
+import PageControls from './components/PageControls/PageControls';
 
 function App() {
   return (
