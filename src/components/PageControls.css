@@ -1,0 +1,8 @@
+.pageControlContainer {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+  margin: 20px auto;
+  width: 75%;
+  border: solid 1px black;
+}
