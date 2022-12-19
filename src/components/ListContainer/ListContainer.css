@@ -1,0 +1,7 @@
+.listContainer {
+  background-color: lightblue;
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 75%;
+  padding: 10px;
+}

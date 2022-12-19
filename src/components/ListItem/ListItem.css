@@ -1,0 +1,12 @@
+.listItemContainer {
+  background-color: linen;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10px;
+  min-height: 100px;
+}
+
+.listItemContainer:last-of-type {
+  margin-bottom: 0;
+}
